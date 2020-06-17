@@ -37,8 +37,8 @@ You may choose the programming language of your preference.
 We want you to experience how we work on a daily basis. That's why we ask you to use a standard gitflow as follows below.
 
 1. Create a `README.md` file describing how to configure your project, containing the commands that must be executed to run the software and the tests.
-2. Open a new pull request to the `master` branch of the private repository that we have invited you to contribute.
-3. If you have made use of any Linter (esling, rubycop, creed, etc.), send the file together with the project.
+2. If you have made use of any Linter (esling, rubycop, creed, etc.), send the file together with the project.
+3. Open a single pull request to the `master` branch of the private repository that we have invited you to contribute with all the code of the exercise.
 
 ## Exercise
 
